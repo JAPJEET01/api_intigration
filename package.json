@@ -1,0 +1,26 @@
+{
+  "name": "api_intigration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAPJEET01/api_intigration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAPJEET01/api_intigration/issues"
+  },
+  "homepage": "https://github.com/JAPJEET01/api_intigration#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2",
+    "nodemon": "^3.0.1"
+  }
+}
